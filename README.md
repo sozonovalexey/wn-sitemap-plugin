@@ -22,7 +22,7 @@ If you like living on the edge, please report any bugs you find on the
 <a href="https://2tip.xeor.ru/1" target="_blank">
   💰 Donate
 </a>
-
+<br/><br/>
 That's all, thank you for your attention, please [![Star on GitHub][github-star-badge]][github-star] the repo to show your support.
 
 we are all made of stars [![Star on GitHub][github-star-badge]][github-star]
