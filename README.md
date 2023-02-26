@@ -8,8 +8,8 @@ The **Sitemap plugin** allows you to prettify a sitemap.xml file for your websit
 
 ## Installation
 
-```bash
-$ git clone https://github.com/sozonovalexey/wn-sitemap-plugin plugins/xeor/sitemap
+```
+git clone https://github.com/sozonovalexey/wn-sitemap-plugin plugins/xeor/sitemap
 ```
 
 ## Troubleshooting
