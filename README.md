@@ -19,7 +19,8 @@ If you like living on the edge, please report any bugs you find on the
 
 ## Show Your Support
 
-<a href="https://2tip.xeor.ru/1" target="_blank"><img src="[2tip]" alt="2tip." /></a>
+[2tip]
+<a href="https://2tip.xeor.ru/1" target="_blank"></a>
 <br/><br/>
 That's all, thank you for your attention, please [![Star on GitHub][github-star-badge]][github-star] the repo to show your support.
 
